@@ -1,0 +1,10 @@
+logging:
+  logger_name: 'train'
+
+dataset:
+  dataset_dir: 'data'
+
+model:
+  train: True
+  results_dir: 'results1/'
+  n_folds: 5
